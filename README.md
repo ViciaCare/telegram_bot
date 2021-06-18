@@ -1,1 +1,5 @@
-# telegram_bot
+# Chat_bot 
+## Чат бот для Telegram на Python используя модуль telebot. 
+
++ чат ботом ведёт диалог в Telegram на Python используя модуль telebot.
++ чат ботом перехватывает сообщения в чате и отвечает.
